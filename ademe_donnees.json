@@ -1,0 +1,500 @@
+{
+  "source": "ADEME – agirpourlatransition.ademe.fr",
+  "api_endpoint": "https://cdr-generique-agir.ademe.fr/api/v1/search-resource",
+  "date_extraction": "2026-05-15T21:58:57.504644",
+  "total": 54,
+  "donnees": {
+    "actualites_entreprises": [
+      {
+        "id": 1737,
+        "titre": "Les événements de mai 2026 - Entreprises",
+        "categorie": "Actualités – Entreprises",
+        "date": "5 mai 2026",
+        "description": "Retrouvez chaque début de mois le récapitulatif des nouveaux services et conseils d'Agir pour la transition et restez informés de nos actualités, expertises et solutions ! Pour se rencontrer, s’informer et s’engager dans la transition écologique, retrouvez les événements programmés en novembre, pour intégrer le changement climatique dans les projets de votre entreprise. CHANGEMENT CLIMATIQUE Événement à distance . Le 07/05/2026 À 11h Digital Webinaire - Présentation du dispositif ADEME ORENO Avec ORENO, l’ADEME accompagne la structuration d’offres de rénovation performante pour l’hébergement s…",
+        "mots_cles": [],
+        "zone_geo": "666"
+      },
+      {
+        "id": 1770,
+        "titre": "Traction des bateaux de pêche par kite dans l’océan Indien : une innovation au service de la décarbonation maritime",
+        "categorie": "Actualités – Entreprises",
+        "date": "22 avril 2026",
+        "description": "Et si le vent redevenait une source majeure d’énergie pour les navires modernes ? C’est le pari du projet Beyond the Sea, initié par le navigateur et ingénieur Yves Parlier, avec l’ambition de révolutionner la propulsion maritime grâce à des ailes de&nbsp;kite. Dès 2014, une étude accompagnée par l’ADEME a permis de poser les bases de cette technologie innovante. L’objectif : concevoir un système de traction par kite capable d’assister, voire de remplacer partiellement, la propulsion classique des&nbsp;navires. Cette&nbsp;étude s’inscrivait dans une double ambition&nbsp;: Réduire la consommati…",
+        "mots_cles": [],
+        "zone_geo": "04"
+      },
+      {
+        "id": 1772,
+        "titre": "À La Réunion, Parkours.re ouvre la voie vers les métiers de la transition",
+        "categorie": "Actualités – Entreprises",
+        "date": "22 avril 2026",
+        "description": "À La Réunion, de nombreux jeunes, demandeurs d’emploi et personnes en reconversion souhaitent aujourd’hui donner davantage de sens à leur parcours professionnel. Les&nbsp;enjeux écologiques occupent une place croissante dans leurs aspirations, mais il reste parfois difficile d’identifier des métiers concrets, des débouchés locaux et des parcours inspirants pour se&nbsp;projeter. C’est pour répondre à ce besoin que l’association A-Ton-Tour , en partenariat&nbsp;avec Les Tisserands , a&nbsp;développé Parkours.re , un projet soutenu par l’ADEME. Son&nbsp;ambition&nbsp;: faire découvrir les métier…",
+        "mots_cles": [],
+        "zone_geo": "04"
+      },
+      {
+        "id": 1773,
+        "titre": "Mafate : un projet collectif pour transformer durablement la gestion des déchets",
+        "categorie": "Actualités – Entreprises",
+        "date": "22 avril 2026",
+        "description": "Dans le cirque de Mafate, territoire habité unique et accessible uniquement à pied ou par hélicoptère, la gestion des déchets représente un défi important. Avec plusieurs centaines de mètres cubes de déchets spéciaux encore stockés dans les îlets et aux abords des points d’apport volontaire, les acteurs du territoire se mobilisent pour construire des solutions adaptées, pérennes et reproductibles. Entre collecte, réparation et structuration de nouvelles filières, le projet entre dans une phase décisive. Équipements électriques, groupes électrogènes, batteries, panneaux solaires, mobilier, maté…",
+        "mots_cles": [],
+        "zone_geo": "04"
+      },
+      {
+        "id": 1774,
+        "titre": "Un dispositif territorial pour la montée en puissance des filières REP à La Réunion",
+        "categorie": "Actualités – Entreprises",
+        "date": "22 avril 2026",
+        "description": "Un levier pour l’économie circulaire À La Réunion, le déploiement des filières à Responsabilité Élargie du Producteur (REP) s’appuie sur un dispositif territorial dédié, financé par l’ADEME et animé par le Syndicat de l’importation et du commerce de La Réunion (SICR) . Ce dispositif vise à améliorer la gestion des déchets en tenant compte des spécificités locales, tout en renforçant les dynamiques d’économie circulaire sur le territoire. Il s’inscrit dans la continuité des actions engagées depuis plusieurs années pour développer la collecte, le tri et la valorisation des déchets. Un rôle d’int…",
+        "mots_cles": [],
+        "zone_geo": "04"
+      },
+      {
+        "id": 1775,
+        "titre": "Une nouvelle unité de recyclage des métaux à Saint-Louis",
+        "categorie": "Actualités – Entreprises",
+        "date": "22 avril 2026",
+        "description": "Acteur du recyclage à La Réunion, Generall Autos franchit une nouvelle étape avec la création d’une unité industrielle moderne dédiée au traitement des métaux et des véhicules hors d’usage&nbsp;(VHU). Inauguré le 3 avril, ce site marque l’aboutissement de plusieurs années de développement pour cette entreprise familiale fondée en 1980. Aujourd’hui, elle s’impose comme un acteur majeur de la filière sur l’île, avec deux centres agréés et près de 50&nbsp;salariés. Un projet structurant pour la filière&nbsp;recyclage Implanté sur un site d’environ 5 000 m², ce nouvel outil industriel répond aux e…",
+        "mots_cles": [],
+        "zone_geo": "04"
+      },
+      {
+        "id": 1688,
+        "titre": "Les nouvelles aides financières d'avril 2026 - Entreprises",
+        "categorie": "Actualités – Entreprises",
+        "date": "16 avril 2026",
+        "description": "Retrouvez chaque début de mois le récapitulatif des nouveaux services et conseils d'Agir pour la transition et restez informés de nos actualités, expertises et solutions ! Vous souhaitez engager votre entreprise dans la transition écologique ? Retrouvez une sélection de dispositifs d'aides pour soutenir vos projets de recherche, innovation, diagnostic, études ou mise en œuvre. Économie circulaire / Déchets Régional · Jusqu'au 12/06/2026 Actions de réemploi, réutilisation, réparation, reconditionnement et remanufacture en AURA L'appel à projets (AAP) AURA-5R 2026 vise à développer les projets d…",
+        "mots_cles": [],
+        "zone_geo": "666"
+      },
+      {
+        "id": 1705,
+        "titre": "Les événements d'avril 2026 - Entreprises",
+        "categorie": "Actualités – Entreprises",
+        "date": "31 mars 2026",
+        "description": "Retrouvez chaque début de mois le récapitulatif des nouveaux services et conseils d'Agir pour la transition et restez informés de nos actualités, expertises et solutions ! Pour se rencontrer, s’informer et s’engager dans la transition écologique, retrouvez les événements programmés en novembre, pour intégrer le changement climatique dans les projets de votre entreprise. Autre Événement à distance . Le&nbsp;16/04/2026 de&nbsp;12h à&nbsp;13h30 Digital Massification de l'IA et responsabilité : comment agir positivement dans son entreprise ? Webinaire inspirant pour agir en faveur du climat dans l…",
+        "mots_cles": [],
+        "zone_geo": "666"
+      },
+      {
+        "id": 1760,
+        "titre": "BâtiFRAIS 2026 : Lancement officiel de l’appel à contributions",
+        "categorie": "Actualités – Entreprises",
+        "date": "30 mars 2026",
+        "description": "Alors que les épisodes de chaleur extrême se multiplient, BâtiFRAIS réunit chaque année les acteurs de la construction et de l’aménagement pour partager des solutions innovantes et accessibles. Architectes, ingénieurs, urbanistes, chercheurs et maîtres d’ouvrage sont invités à présenter leurs projets et recherches, afin de bâtir des espaces frais, résilients et sobres, adaptés aux défis climatiques de demain. Relever ensemble le défi du confort d’été face au changement climatique Avec la multiplication des vagues de chaleur, repenser le confort thermique dans les bâtiments et les territoires e…",
+        "mots_cles": [],
+        "zone_geo": "666"
+      },
+      {
+        "id": 1707,
+        "titre": "Les nouvelles aides financières de mars 2026 - Entreprises",
+        "categorie": "Actualités – Entreprises",
+        "date": "18 mars 2026",
+        "description": "Retrouvez chaque début de mois le récapitulatif des nouveaux services et conseils d'Agir pour la transition et restez informés de nos actualités, expertises et solutions&nbsp;! Vous souhaitez engager votre entreprise dans la transition écologique&nbsp;? Retrouvez une sélection de dispositifs d'aides pour soutenir vos projets de recherche, innovation, diagnostic, études ou mise en œuvre. Économie circulaire / déchets Régional · Jusqu'au 15 juin 2026 Soutien au déploiement de l’économie de la fonctionnalité et de la coopération en Corse Vous souhaitez développer un service innovant aux particuli…",
+        "mots_cles": [],
+        "zone_geo": "666"
+      },
+      {
+        "id": 1743,
+        "titre": "ADEME Île-de-France - Rapport d'activité 2025",
+        "categorie": "Actualités – Entreprises",
+        "date": "11 mars 2026",
+        "description": "L’ADEME, en tant qu’opérateur de l’État, joue pleinement son rôle pour accompagner la nécessaire transition écologique. En 2025, l’engagement de l’ADEME Île-de-France pour la transition écologique a ainsi été particulièrement important, avec 431 projets soutenus et 187 M€ d’aides versées pour soutenir les collectivités et les entreprises dans leurs projets de transition écologique et énergétique. Ces 12 mois enrichissants ont renforcé la coopération entre l’équipe de la Direction Régionale, très impliquée au quotidien, le préfet de Région, délégué territorial de l’ADEME, les préfectures de dép…",
+        "mots_cles": [],
+        "zone_geo": "11"
+      },
+      {
+        "id": 1740,
+        "titre": "Géothermie : révéler le potentiel francilien - Trois questions à Camille Maurel",
+        "categorie": "Actualités – Entreprises",
+        "date": "5 mars 2026",
+        "description": "Ce mois-ci, Camille Maurel, Ingénieure en géothermie et Responsable du projet Géoscan Île-de-France au BRGM, se prête à l’exercice. Comment se positionne le BRGM par rapport aux sujets de transition écologique, et notamment en Île-de-France ? Tout comme l’ADEME, le BRGM a dans ses ministères de tutelle le Ministère en charge de la transition écologique. Nous travaillons ainsi avec l’État, les collectivités et les entreprises sur des sujets d’adaptation au changement climatique, sur les objectifs nationaux et régionaux en matière de préservation des ressources et de production d'énergie renouve…",
+        "mots_cles": [],
+        "zone_geo": "11"
+      },
+      {
+        "id": 1736,
+        "titre": "L’État garde son cap dans le soutien à la transition écologique sur le territoire francilien et présente ses priorités 2026",
+        "categorie": "Actualités – Entreprises",
+        "date": "3 mars 2026",
+        "description": "Marc GUILLAUME, Préfet de la Région d’Île-de-France, Préfet de Paris, a présidé le 16 février 2026 le comité régional d’orientation (CRO) de l’ADEME Île-de-France, en présence d’Amélie RENAUD, Directrice régionale Île-de-France de l’ADEME. Ce temps fort annuel a réunion des représentants des services de l’État, des élus et plus largement tous les partenaires de l’ADEME en Île-de-France. Il a permis de dresser un bilan des actions menées en 2025, de favoriser le partage d’informations entre acteurs de la transition écologique et de présenter les grandes priorités 2026. En 2025, l’État a soutenu…",
+        "mots_cles": [],
+        "zone_geo": "11"
+      },
+      {
+        "id": 1726,
+        "titre": "FIRE 2026 - Ouverture de l'appel à communication !",
+        "categorie": "Actualités – Entreprises",
+        "date": "9 février 2026",
+        "description": "FIRE , le Forum de la chaleur industrielle coorganisé par ALLICE et le CETIAT, soutenu par l’ADEME, revient pour sa 11 e édition le 22 septembre 2026 à Lyon&nbsp;! Lieu de partage d’expérience entre pairs, FIRE met en avant des témoignages concernant tous les procédés thermiques et tous les secteurs industriels. Qui peut répondre à cet appel à communication&nbsp;? Industriels : vous avez des retours d’expériences concrets à partager&nbsp;? Fournisseurs de solutions, financeurs, bureaux d’études &nbsp;: les industriels que vous avez accompagnés sont prêts à témoigner&nbsp;? Les propositions rép…",
+        "mots_cles": [],
+        "zone_geo": "84"
+      },
+      {
+        "id": 1720,
+        "titre": "Filières REP à La Réunion : un bilan 2024 marqué par la montée en puissance des dispositifs et du réemploi",
+        "categorie": "Actualités – Entreprises",
+        "date": "27 janvier 2026",
+        "description": "L’année 2024 confirme le rôle structurant des filières à Responsabilité Élargie du Producteur (REP) dans la gestion des déchets à La Réunion. Portées par la mobilisation des éco-organismes, des collectivités, des opérateurs, des distributeurs et des acteurs de l’économie sociale et solidaire (ESS), les filières REP poursuivent leur développement, tant sur les filières historiques que sur les nouvelles filières mises en œuvre récemment. Des volumes en hausse pour les filières historiques En 2024, les filières REP historiques ont permis de collecter 63 251,5 tonnes de déchets , soit une hausse d…",
+        "mots_cles": [],
+        "zone_geo": "04"
+      },
+      {
+        "id": 1717,
+        "titre": "Les actions de l'ADEME Océan Indien en 2025 : un soutien inédit pour la transition écologique",
+        "categorie": "Actualités – Entreprises",
+        "date": "26 janvier 2026",
+        "description": "En 2025, l'ADEME Océan&nbsp;Indien a poursuivi son engagement en faveur de la transition écologique en soutenant des projets portés par des acteurs publics et privés, aussi bien à La Réunion qu'à Mayotte. Au total, ce sont 80 projets qui ont bénéficié de l'accompagnement financier de l'agence, pour un montant total de 14&nbsp;136&nbsp;508&nbsp;€. Qui sont les bénéficiaires&nbsp;? Les aides de l'ADEME ont principalement été attribuées à quatre catégories d'acteurs répartis entre La Réunion et Mayotte&nbsp;: À la&nbsp;Réunion&nbsp;: 66&nbsp;dossiers pour un montant total d’aides de 8&nbsp;696&nb…",
+        "mots_cles": [],
+        "zone_geo": "00"
+      },
+      {
+        "id": 1718,
+        "titre": "Le Papang à Saint-Denis : retour d’expérience sur un téléphérique urbain dans l’océan Indien",
+        "categorie": "Actualités – Entreprises",
+        "date": "26 janvier 2026",
+        "description": "Le Papang, téléphérique urbain de la CINOR, implanté à Saint-Denis de La Réunion, constitue une réalisation pionnière dans l’océan Indien et un cas d’étude emblématique pour l’analyse des transports par câble en milieu urbain contraint. Dans ce contexte, une étude a été réalisée par le CEREMA afin d’analyser les effets économiques, environnementaux et sociaux du projet et d’identifier des leviers d’amélioration du service et de sa fréquentation. Cette étude a été co-financée par la CINOR, l’AFD, la Banque des Territoires et l’ADEME. La première phase de l’étude repose sur un diagnostic approfo…",
+        "mots_cles": [],
+        "zone_geo": "04"
+      },
+      {
+        "id": 1716,
+        "titre": "Agrivoltaïsme : un Observatoire national pour éclairer les dynamiques locales",
+        "categorie": "Actualités – Entreprises",
+        "date": "23 janvier 2026",
+        "description": "Portée par la loi «&nbsp;APER&nbsp;» de 2023, la filière&nbsp;agrivoltaïque se développe rapidement en France, combinant production agricole et énergie solaire sur les mêmes parcelles. Pour accompagner cette dynamique, le Gouvernement, avec l’appui de l’ADEME, a créé l’ Observatoire de&nbsp;l’Agrivoltaïsme , un outil national permettant de suivre le déploiement des installations, de capitaliser les retours d’expérience et de fournir des données fiables aux porteurs de projet, aux collectivités et aux acteurs de la filière. L’Observatoire recense aujourd’hui plus de 200&nbsp;projets existants o…",
+        "mots_cles": [],
+        "zone_geo": "04"
+      },
+      {
+        "id": 1701,
+        "titre": "Ré-Invente : un village pour repenser nos façons de consommer à La Réunion",
+        "categorie": "Actualités – Entreprises",
+        "date": "14 janvier 2026",
+        "description": "Le 24&nbsp;septembre&nbsp;2025, la Cité&nbsp;des&nbsp;Arts a accueilli Ré-Invente , premier village consacré au réemploi, à la réutilisation et à la réparation organisé par l'ADEME à La&nbsp;Réunion. Dans un territoire où la gestion des déchets reste un défi majeur, l’événement a rassemblé 34&nbsp;exposants issus de filières variées&nbsp;: ressourceries, structures d’insertion, réparateurs, acteurs du textile circulaire, entreprises innovantes ou associations spécialisées. L’objectif&nbsp;: montrer que des solutions locales existent déjà et qu’elles méritent d’être mieux connues et soutenues. …",
+        "mots_cles": [],
+        "zone_geo": "666"
+      },
+      {
+        "id": 1702,
+        "titre": "L’ADEME et la CRESS de La Réunion s’engagent pour accélérer la transition écologique par l’ESS",
+        "categorie": "Actualités – Entreprises",
+        "date": "14 janvier 2026",
+        "description": "L’ADEME et la Chambre&nbsp;Régionale de l’Économie&nbsp;Sociale et Solidaire&nbsp;(CRESS) de La&nbsp;Réunion ont récemment signé une convention de partenariat stratégique visant à accélérer la transition écologique et énergétique par l’économie sociale et solidaire&nbsp;(ESS) sur le territoire réunionnais. Cette convention s’inscrit pleinement dans les missions de l’ADEME&nbsp;: accompagner les territoires, soutenir les dynamiques d’économie circulaire, favoriser les changements de comportements et faire émerger des solutions durables, inclusives et ancrées localement. Elle prévoit notamment l…",
+        "mots_cles": [],
+        "zone_geo": "666"
+      }
+    ],
+    "actualites_collectivités": [
+      {
+        "id": 1776,
+        "titre": "Développer le vélo en grande couronne - Trois questions à Angelika Oleksiak",
+        "categorie": "Actualités – Collectivités",
+        "date": "28 avril 2026",
+        "description": "Ce mois-ci, Angelika Oleksiak, Responsable de plaidoyer en grande couronne au Collectif Vélo Île-de-France, se prête à l’exercice. Quels signaux d’espoir voyez-vous pour les collectivités volontaires qui veulent développer le vélo en grande couronne&nbsp;? Ce&nbsp;qui fait la différence, hier comme aujourd'hui, c'est la volonté politique. À Bièvres, des élus ont coordonné trois départements, trois communes, des services de l'État pour débloquer un aménagement jugé impossible, et ils ont réussi. La&nbsp;commune du Vésinet s’est mobilisée pour sécuriser l'accès au lycée à 800 cyclistes quotidien…",
+        "mots_cles": [],
+        "zone_geo": "11"
+      },
+      {
+        "id": 1770,
+        "titre": "Traction des bateaux de pêche par kite dans l’océan Indien : une innovation au service de la décarbonation maritime",
+        "categorie": "Actualités – Collectivités",
+        "date": "22 avril 2026",
+        "description": "Et si le vent redevenait une source majeure d’énergie pour les navires modernes ? C’est le pari du projet Beyond the Sea, initié par le navigateur et ingénieur Yves Parlier, avec l’ambition de révolutionner la propulsion maritime grâce à des ailes de&nbsp;kite. Dès 2014, une étude accompagnée par l’ADEME a permis de poser les bases de cette technologie innovante. L’objectif : concevoir un système de traction par kite capable d’assister, voire de remplacer partiellement, la propulsion classique des&nbsp;navires. Cette&nbsp;étude s’inscrivait dans une double ambition&nbsp;: Réduire la consommati…",
+        "mots_cles": [],
+        "zone_geo": "04"
+      },
+      {
+        "id": 1771,
+        "titre": "Une animation au service des Projets Alimentaires Territoriaux à La Réunion",
+        "categorie": "Actualités – Collectivités",
+        "date": "22 avril 2026",
+        "description": "Instaurés en 2014 par la loi d’avenir pour l’agriculture, l’alimentation et la forêt (LAAF), les Projets Alimentaires Territoriaux (PAT) rassemblent les acteurs d’un territoire autour des enjeux agricoles, alimentaires et environnementaux. Après un diagnostic et la construction d’un plan d’actions, ils se traduisent par des initiatives concrètes : production locale, accès à une alimentation de qualité, éducation alimentaire et lutte contre le gaspillage. Depuis septembre 2025, le CIRAD accueille l’animatrice du réseau inter-PAT, dans le cadre d’un partenariat technique et financier entre l’ADE…",
+        "mots_cles": [],
+        "zone_geo": "04"
+      },
+      {
+        "id": 1772,
+        "titre": "À La Réunion, Parkours.re ouvre la voie vers les métiers de la transition",
+        "categorie": "Actualités – Collectivités",
+        "date": "22 avril 2026",
+        "description": "À La Réunion, de nombreux jeunes, demandeurs d’emploi et personnes en reconversion souhaitent aujourd’hui donner davantage de sens à leur parcours professionnel. Les&nbsp;enjeux écologiques occupent une place croissante dans leurs aspirations, mais il reste parfois difficile d’identifier des métiers concrets, des débouchés locaux et des parcours inspirants pour se&nbsp;projeter. C’est pour répondre à ce besoin que l’association A-Ton-Tour , en partenariat&nbsp;avec Les Tisserands , a&nbsp;développé Parkours.re , un projet soutenu par l’ADEME. Son&nbsp;ambition&nbsp;: faire découvrir les métier…",
+        "mots_cles": [],
+        "zone_geo": "04"
+      },
+      {
+        "id": 1773,
+        "titre": "Mafate : un projet collectif pour transformer durablement la gestion des déchets",
+        "categorie": "Actualités – Collectivités",
+        "date": "22 avril 2026",
+        "description": "Dans le cirque de Mafate, territoire habité unique et accessible uniquement à pied ou par hélicoptère, la gestion des déchets représente un défi important. Avec plusieurs centaines de mètres cubes de déchets spéciaux encore stockés dans les îlets et aux abords des points d’apport volontaire, les acteurs du territoire se mobilisent pour construire des solutions adaptées, pérennes et reproductibles. Entre collecte, réparation et structuration de nouvelles filières, le projet entre dans une phase décisive. Équipements électriques, groupes électrogènes, batteries, panneaux solaires, mobilier, maté…",
+        "mots_cles": [],
+        "zone_geo": "04"
+      },
+      {
+        "id": 1774,
+        "titre": "Un dispositif territorial pour la montée en puissance des filières REP à La Réunion",
+        "categorie": "Actualités – Collectivités",
+        "date": "22 avril 2026",
+        "description": "Un levier pour l’économie circulaire À La Réunion, le déploiement des filières à Responsabilité Élargie du Producteur (REP) s’appuie sur un dispositif territorial dédié, financé par l’ADEME et animé par le Syndicat de l’importation et du commerce de La Réunion (SICR) . Ce dispositif vise à améliorer la gestion des déchets en tenant compte des spécificités locales, tout en renforçant les dynamiques d’économie circulaire sur le territoire. Il s’inscrit dans la continuité des actions engagées depuis plusieurs années pour développer la collecte, le tri et la valorisation des déchets. Un rôle d’int…",
+        "mots_cles": [],
+        "zone_geo": "04"
+      },
+      {
+        "id": 1775,
+        "titre": "Une nouvelle unité de recyclage des métaux à Saint-Louis",
+        "categorie": "Actualités – Collectivités",
+        "date": "22 avril 2026",
+        "description": "Acteur du recyclage à La Réunion, Generall Autos franchit une nouvelle étape avec la création d’une unité industrielle moderne dédiée au traitement des métaux et des véhicules hors d’usage&nbsp;(VHU). Inauguré le 3 avril, ce site marque l’aboutissement de plusieurs années de développement pour cette entreprise familiale fondée en 1980. Aujourd’hui, elle s’impose comme un acteur majeur de la filière sur l’île, avec deux centres agréés et près de 50&nbsp;salariés. Un projet structurant pour la filière&nbsp;recyclage Implanté sur un site d’environ 5 000 m², ce nouvel outil industriel répond aux e…",
+        "mots_cles": [],
+        "zone_geo": "04"
+      },
+      {
+        "id": 1689,
+        "titre": "Les nouvelles aides financières d'avril 2026 - Collectivités",
+        "categorie": "Actualités – Collectivités",
+        "date": "16 avril 2026",
+        "description": "Retrouvez chaque début de mois le récapitulatif des nouveaux services et conseils d'Agir pour la transition et restez informés de nos actualités, expertises et solutions ! Vous souhaitez engager votre entreprise dans la transition écologique ? Retrouvez une sélection de dispositifs d'aides pour soutenir vos projets de recherche, innovation, diagnostic, études ou mise en œuvre. Économie circulaire / Déchets Régional · Jusqu'au 12/06/2026 Actions de réemploi, réutilisation, réparation, reconditionnement et remanufacture en AURA L'appel à projets (AAP) AURA-5R 2026 vise à développer les projets d…",
+        "mots_cles": [],
+        "zone_geo": "666"
+      },
+      {
+        "id": 1767,
+        "titre": "Lancement de l’Appel à Projet Eolien Citoyen en Provence-Alpes-Côte d’Azur",
+        "categorie": "Actualités – Collectivités",
+        "date": "10 avril 2026",
+        "description": "Collectivités de Provence-Alpes-Côte d’Azur, pourquoi n'utiliseriez-vous pas la force du vent présente sur votre territoire pour générer des retombées économiques locales ? Pourquoi ne seriez-vous pas le premier projet éolien exemplaire de PACA, associant l'ensemble des acteurs locaux aux prises de décisions et/ou au partage de la valeur ? L’ADEME et Énergie Partagée vous accompagnent gratuitement dans une démarche concertée pour envisager le développement d'un tel projet. L’objectif est de penser des projets éoliens sur mesure en partant de la vision du développement du territoire et en consi…",
+        "mots_cles": [],
+        "zone_geo": "93"
+      },
+      {
+        "id": 1762,
+        "titre": "Préserver et valoriser les sols franciliens - Trois questions à Romain Garnier",
+        "categorie": "Actualités – Collectivités",
+        "date": "3 avril 2026",
+        "description": "Ce mois-ci, Romain Garnier, Chef de projet Filière Sols au Cluster Eau-Milieux-Sols Paris Île-de-France, se prête à l’exercice. Pouvez-vous nous expliquer quels sont les liens entre le Cluster EMS, les sols et la transition écologique en Île-de-France&nbsp;? Le Cluster EMS (Eau Milieux Sols) est une association de loi 1901 ayant pour vocation à structurer des filières économiques au service de la gestion durable de l’eau, des milieux, des sols urbains et des biodéchets. Ses 200 membres sont des collectivités territoriales, entreprises de toutes tailles, centre de recherches et universités. Ils…",
+        "mots_cles": [],
+        "zone_geo": "11"
+      },
+      {
+        "id": 1706,
+        "titre": "Les événements d'avril 2026 - Collectivités",
+        "categorie": "Actualités – Collectivités",
+        "date": "31 mars 2026",
+        "description": "Retrouvez chaque début de mois le récapitulatif des nouveaux services et conseils d'Agir pour la transition et restez informés de nos actualités, expertises et solutions ! Pour se rencontrer, s’informer et s’engager dans la transition écologique, retrouvez les événements programmés en novembre, pour intégrer le changement climatique dans les projets de votre collectivité. Changement climatique Événement en présentiel . Le&nbsp;16/04/2026 Paris Accompagner les changements de comportement L'ADEME vous propose une rencontre portant sur la thématique de l'accompagnement aux changements de comporte…",
+        "mots_cles": [],
+        "zone_geo": "666"
+      },
+      {
+        "id": 1708,
+        "titre": "Les nouvelles aides financières de mars 2026 - Collectivités",
+        "categorie": "Actualités – Collectivités",
+        "date": "18 mars 2026",
+        "description": "Retrouvez chaque début de mois le récapitulatif des nouveaux services et conseils d'Agir pour la transition et restez informés de nos actualités, expertises et solutions&nbsp;! Vous souhaitez engager votre collectivité dans la transition écologique&nbsp;? Retrouvez une sélection de dispositifs d'aides pour soutenir vos projets de recherche, innovation, diagnostic, études ou mise en œuvre. Économie circulaire / déchets Régional · Jusqu'au 15 juin 2026 Soutien au déploiement de l’économie de la fonctionnalité et de la coopération en Corse Vous souhaitez développer un service innovant aux particu…",
+        "mots_cles": [],
+        "zone_geo": "666"
+      },
+      {
+        "id": 1743,
+        "titre": "ADEME Île-de-France - Rapport d'activité 2025",
+        "categorie": "Actualités – Collectivités",
+        "date": "11 mars 2026",
+        "description": "L’ADEME, en tant qu’opérateur de l’État, joue pleinement son rôle pour accompagner la nécessaire transition écologique. En 2025, l’engagement de l’ADEME Île-de-France pour la transition écologique a ainsi été particulièrement important, avec 431 projets soutenus et 187 M€ d’aides versées pour soutenir les collectivités et les entreprises dans leurs projets de transition écologique et énergétique. Ces 12 mois enrichissants ont renforcé la coopération entre l’équipe de la Direction Régionale, très impliquée au quotidien, le préfet de Région, délégué territorial de l’ADEME, les préfectures de dép…",
+        "mots_cles": [],
+        "zone_geo": "11"
+      },
+      {
+        "id": 1735,
+        "titre": "Comment l’ADEME accompagne les élus locaux ?",
+        "categorie": "Actualités – Collectivités",
+        "date": "3 mars 2026",
+        "description": "Au cœur des missions qui lui sont confiées par le ministère de la Transition écologique, le ministère en charge de l’Énergie et le ministère en charge de la Recherche, l’ADEME – l’Agence de la transition écologique – partage ses expertises et assure le financement ainsi que l’accompagnement de projets de transformation. Ces actions couvrent des domaines variés : énergie, économie circulaire, décarbonation de l’industrie, mobilité, bâtiment, qualité de l’air, consommation et production responsables, alimentation durable, bioéconomie, gestion des sols, adaptation au changement climatique et tran…",
+        "mots_cles": [],
+        "zone_geo": "24"
+      },
+      {
+        "id": 1736,
+        "titre": "L’État garde son cap dans le soutien à la transition écologique sur le territoire francilien et présente ses priorités 2026",
+        "categorie": "Actualités – Collectivités",
+        "date": "3 mars 2026",
+        "description": "Marc GUILLAUME, Préfet de la Région d’Île-de-France, Préfet de Paris, a présidé le 16 février 2026 le comité régional d’orientation (CRO) de l’ADEME Île-de-France, en présence d’Amélie RENAUD, Directrice régionale Île-de-France de l’ADEME. Ce temps fort annuel a réunion des représentants des services de l’État, des élus et plus largement tous les partenaires de l’ADEME en Île-de-France. Il a permis de dresser un bilan des actions menées en 2025, de favoriser le partage d’informations entre acteurs de la transition écologique et de présenter les grandes priorités 2026. En 2025, l’État a soutenu…",
+        "mots_cles": [],
+        "zone_geo": "11"
+      },
+      {
+        "id": 1738,
+        "titre": "Les événements de mars 2026 - Collectivités",
+        "categorie": "Actualités – Collectivités",
+        "date": "3 mars 2026",
+        "description": "Retrouvez chaque début de mois le récapitulatif des nouveaux services et conseils d'Agir pour la transition et restez informés de nos actualités, expertises et solutions ! Pour se rencontrer, s’informer et s’engager dans la transition écologique, retrouvez les événements programmés en novembre, pour intégrer le changement climatique dans les projets de votre collectivité. Déchets Événement en présentiel . Le&nbsp;11/03/2026 de&nbsp;9h à&nbsp;16h Burie Journée Technique du RÉGAL Journée d'échange et de partage d’expérience entre pairs pour apprendre, comprendre et agir contre le gaspillage alim…",
+        "mots_cles": [],
+        "zone_geo": "666"
+      },
+      {
+        "id": 1732,
+        "titre": "Accompagner la mobilité durable dans les territoires - Quatre questions à Céline Lamer",
+        "categorie": "Actualités – Collectivités",
+        "date": "23 février 2026",
+        "description": "L’ADEME accompagne et finance des projets de mobilité durable portés par les collectivités et contribue à l’animation régionale des territoires. Elle participe à la cellule d’appui France Mobilités qui est un écosystème d’échange permanent autour des sujets liés à la mobilité coanimée avec d’autres acteurs régionaux cités ci-dessous. Elle pilote aussi le réseau régional mobilité, destiné aux chargés de mission mobilité des collectivités territoriales en région Centre-Val-de-Loire. Découvrez les missions et actions avec Céline Lamer, Chargée de mission transports et mobilité à la DR Centre Val …",
+        "mots_cles": [],
+        "zone_geo": "24"
+      },
+      {
+        "id": 1725,
+        "titre": "L’ADEME publie l’Atlas 2026 : la transition écologique en Nouvelle-Aquitaine",
+        "categorie": "Actualités – Collectivités",
+        "date": "9 février 2026",
+        "description": "L’atlas régional proposé par l’ADEME Nouvelle-Aquitaine a pour principal objectif de représenter l’état des lieux annuel des stratégies déployées par l’État et portées par l’ADEME aux différentes échelles du territoire : région, département et intercommunalité (EPCI). Combien de projets et quelles ont été les aides par départements ? Où sont situés les projets accompagnés par l’ADEME dans ses sphères d’activités : Territoires Durables, Économie circulaire, Transition énergétique ? 52 pages de cartes, de faits, de chiffres pour comprendre et se rendre compte de l’activité de l’ADEME. Découvrir …",
+        "mots_cles": [],
+        "zone_geo": "75"
+      },
+      {
+        "id": 1720,
+        "titre": "Filières REP à La Réunion : un bilan 2024 marqué par la montée en puissance des dispositifs et du réemploi",
+        "categorie": "Actualités – Collectivités",
+        "date": "27 janvier 2026",
+        "description": "L’année 2024 confirme le rôle structurant des filières à Responsabilité Élargie du Producteur (REP) dans la gestion des déchets à La Réunion. Portées par la mobilisation des éco-organismes, des collectivités, des opérateurs, des distributeurs et des acteurs de l’économie sociale et solidaire (ESS), les filières REP poursuivent leur développement, tant sur les filières historiques que sur les nouvelles filières mises en œuvre récemment. Des volumes en hausse pour les filières historiques En 2024, les filières REP historiques ont permis de collecter 63 251,5 tonnes de déchets , soit une hausse d…",
+        "mots_cles": [],
+        "zone_geo": "04"
+      },
+      {
+        "id": 1717,
+        "titre": "Les actions de l'ADEME Océan Indien en 2025 : un soutien inédit pour la transition écologique",
+        "categorie": "Actualités – Collectivités",
+        "date": "26 janvier 2026",
+        "description": "En 2025, l'ADEME Océan&nbsp;Indien a poursuivi son engagement en faveur de la transition écologique en soutenant des projets portés par des acteurs publics et privés, aussi bien à La Réunion qu'à Mayotte. Au total, ce sont 80 projets qui ont bénéficié de l'accompagnement financier de l'agence, pour un montant total de 14&nbsp;136&nbsp;508&nbsp;€. Qui sont les bénéficiaires&nbsp;? Les aides de l'ADEME ont principalement été attribuées à quatre catégories d'acteurs répartis entre La Réunion et Mayotte&nbsp;: À la&nbsp;Réunion&nbsp;: 66&nbsp;dossiers pour un montant total d’aides de 8&nbsp;696&nb…",
+        "mots_cles": [],
+        "zone_geo": "00"
+      }
+    ],
+    "evenements": [
+      {
+        "id": 1757,
+        "titre": "NéoBusiness Nouvelle-Aquitaine, édition 2026",
+        "categorie": "Événements – Toutes audiences",
+        "date": "25 novembre 2026",
+        "description": "NéoBusiness en Nouvelle-Aquitaine&nbsp;: Un salon inversé pour des achats responsables et locaux.&nbsp; Date et lieu L'événement aura lieu le mercredi 25&nbsp;novembre&nbsp;2026 de 17h30 à 22h00 et le jeudi 26&nbsp;novembre&nbsp;2026 de 9h00 à 18h00 à Bordeaux (Gironde, Nouvelle-Aquitaine). Adresse&nbsp;: Palais de la Bourse, 19&nbsp;place de la Bourse, Bordeaux En savoir plus sur l'événement Présentation de l'événement NéoBusiness en Nouvelle-Aquitaine est le salon «&nbsp;inversé&nbsp;» régional. Il est devenu la rencontre B2B de référence pour favoriser concrètement les achats responsables e…",
+        "mots_cles": [],
+        "zone_geo": "75"
+      },
+      {
+        "id": 1727,
+        "titre": "FIRE 2026 : Le forum de la chaleur industrielle",
+        "categorie": "Événements – Toutes audiences",
+        "date": "22 septembre 2026",
+        "description": "Date et lieu L'événement aura lieu le mardi 22 septembre 2026 à Lyon, au Centre de Congrès, 50 quai Charles de Gaulle, Lyon 6. Ouverture des inscriptions en avril 2026 Présentation de l'événement Depuis 2010, le FIRE témoigne de l’évolution des enjeux liés à la production et l’exploitation de la chaleur en industrie. En 2026, l’évènement marque une étape clé : des solutions autrefois émergentes sont à présent matures, les prix des énergies ont démontré leur caractère volatile, et la réduction des consommations énergétiques est devenu un enjeu stratégique central pour beaucoup d’industriels. De…",
+        "mots_cles": [],
+        "zone_geo": "84"
+      },
+      {
+        "id": 1749,
+        "titre": "Rencontre régionale économie circulaire",
+        "categorie": "Événements – Toutes audiences",
+        "date": "22 septembre 2026",
+        "description": "Rencontre dont l'objectif est de réunir largement les acteurs économiques de la région Nouvelle-Aquitaine autour du sujet de l'économie circulaire. Date et lieu L'événement aura lieu le mardi 22 septembre 2026 de 9h00 à 17h00 à Bordeaux (Nouvelle-Aquitaine). Adresse : Hôtel de Région, 14 rue François de Sourdis, Bordeaux Présentation de l'événement Le programme comprendra plusieurs temps avec des formats variés (tables rondes, ateliers, conférence inspirante, pitchs) et différents espaces d’échange afin que vous puissiez participer activement à cette journée et la construisiez à l’image de vos…",
+        "mots_cles": [],
+        "zone_geo": "75"
+      },
+      {
+        "id": 1768,
+        "titre": "La Quinzaine du réseau",
+        "categorie": "Événements – Toutes audiences",
+        "date": "29 juin 2026",
+        "description": "Le rendez-vous de proximité des élus locaux Date Ce rendez-vous aura lieu du 29&nbsp;juin au 10&nbsp;juillet avec plus de 80&nbsp;événements répartis en France.&nbsp; Programme à venir . Public concerné&nbsp;: Les élus locaux Présentation de l'événement Du 29&nbsp;juin au 10&nbsp;juillet, le réseau «&nbsp;Élus pour agir&nbsp;» vous convie à des événements régionaux entre élus, en présentiel et près de chez vous, organisés par votre Direction régionale ADEME. Pour accélérer et faciliter les projets de transition écologique sur votre territoire, la Quinzaine du réseau est l’opportunité de rencon…",
+        "mots_cles": [],
+        "zone_geo": "666"
+      },
+      {
+        "id": 1756,
+        "titre": "Journées Alimentaires et Santé de La Rochelle, 16ᵉ édition",
+        "categorie": "Événements – Toutes audiences",
+        "date": "17 juin 2026",
+        "description": "JAS – Journées de l’Alimentation de Demain&nbsp;: «&nbsp;Rencontrez aujourd’hui l’alimentation de demain&nbsp;»&nbsp; Date et lieu L'événement aura lieu le mercredi 17&nbsp;juin&nbsp;2026 de 8h00 à 22h00 et le jeudi 18&nbsp;juin&nbsp;2026 de 8h00 à 16h00 à La&nbsp;Rochelle (Charente-Maritime, Nouvelle-Aquitaine). Adresse&nbsp;: Espace Encan, Quai Louis Prunier, 17000 La&nbsp;Rochelle En savoir plus sur l'événement Présentation de l'événement Rencontrez aujourd'hui l'alimentation de demain. Créées en 1995, à l’initiative du CRITT (Centre Régional d’Innovation et de Transfert de Technologies) Ag…",
+        "mots_cles": [],
+        "zone_geo": "75"
+      },
+      {
+        "id": 1643,
+        "titre": "L'ADEME Provence-Alpes-Côte d'Azur décrypte l'actualité",
+        "categorie": "Événements – Toutes audiences",
+        "date": "11 juin 2026",
+        "description": "Présentation Prochain décryptage&nbsp;: 11&nbsp;juin&nbsp;2026 de&nbsp;13h30 à&nbsp;14h30 #17&nbsp;- Solaire thermique&nbsp;: comment réhabiliter vos installations et mobiliser les aides existantes&nbsp;? Vous êtes une collectivité, un gestionnaire de bâtiment, un bailleur, un industriel ou un acteur du tertiaire et vous exploitez une installation solaire thermique&nbsp;? Sous-performance, arrêt, doutes sur le fonctionnement… ces situations peuvent arriver. Une installation inefficace, c’est&nbsp;: des pertes économiques une performance énergétique dégradée une opportunité manquée de valoriser…",
+        "mots_cles": [],
+        "zone_geo": "93"
+      },
+      {
+        "id": 1712,
+        "titre": "Trophées des communes pour la santé - Environnement 2026",
+        "categorie": "Événements – Toutes audiences",
+        "date": "2 juin 2026",
+        "description": "Date et lieu Les lauréats seront récompensés lors d'une cérémonie qui aura lieu à l'occasion du Salon de l'Ami (Association des Maires de l’Île-de-France), les 2 et 3 juin 2026. Paris Exposition , 1 Place de la Porte de Versailles, Hall 6&nbsp;- 75015 Paris Présentation de l'événement Les Trophées des communes d’Île-de-France engagées pour la santé-environnement valorisent les initiatives des communes et intercommunalités menant des actions et une politique locale en matière de santé- environnement. Les Trophées santé-environnement répondent à trois objectifs&nbsp;: valoriser les communes enga…",
+        "mots_cles": [],
+        "zone_geo": "11"
+      },
+      {
+        "id": 1777,
+        "titre": "Webinaire - Présentation du dispositif ADEME ORENO",
+        "categorie": "Événements – Toutes audiences",
+        "date": "7 mai 2026",
+        "description": "Avec ORENO , l’ADEME accompagne la structuration d’offres de rénovation performante pour l’hébergement social et médico‑social. Découvrez à l’occasion de ce webinaire les enjeux, les objectifs et les modalités de ce nouveau dispositif conçu pour accélérer la transition écologique du secteur. Date Le webinaire aura lieu le jeudi 7 mai à 11h. Je m'inscris à l'événement Je dépose un dossier de candidature Programme du webinaire 11h00 – 12h00 | Webinaire de présentation : dispositif ADEME ORENO – Hébergement social et médico‑social Présentation du dispositif ORENO Enjeux de la rénovation performan…",
+        "mots_cles": [],
+        "zone_geo": "666"
+      },
+      {
+        "id": 1754,
+        "titre": "Webinaire national de préparation de la SERD 2026",
+        "categorie": "Événements – Toutes audiences",
+        "date": "4 mai 2026",
+        "description": "L'ADEME vous propose, pour la première fois, de vous réunir dans le cadre de webinaires qui vous seront entièrement dédiés. Dates et lieux Ces webinaires auront lieu entre le 4 et le 20 mai 2026. Administrations et Collectivités territoriales Lundi 4 mai 2026 de 14h30 à 15h30. Je m'inscris à l'événement Plus d'informations sur le webinaire Entreprises Mardi 5 mai 2026 de 11h à 12h. Je m'inscris à l'événement Plus d'informations sur le webinaire Associations Mercredi 6 mai 2026 de 11h à 12h. Je m'inscris à l'événement Plus d'informations sur le webinaire Acteurs de l'éducation Mercredi 6 mai 20…",
+        "mots_cles": [],
+        "zone_geo": "666"
+      },
+      {
+        "id": 1766,
+        "titre": "CEO Talk : Futur des marchés de l'électricité en Europe",
+        "categorie": "Événements – Toutes audiences",
+        "date": "28 avril 2026",
+        "description": "Les CEO de Nord Pool et ENGIE Allemagne, Tom Darell et Eric Stab, vont discuter de l’avenir des marchés de l’électricité en Europe. Date L'événement aura lieu le 28 avril 2026 de 11h à 12h. Je m'inscris à l'événement En savoir plus sur l'événement Public concerné L’événement s'adresse aux acteurs du secteur énergétique en Europe, aux administrations publiques et à la presse. Présentation de l'événement Ces dernières années, les marchés de l’électricité en Europe ont fait face à une forte volatilité. Dans le cadre de la crise énergétique en 2022, les prix de l’électricité ont atteint des record…",
+        "mots_cles": [],
+        "zone_geo": "666"
+      },
+      {
+        "id": 1745,
+        "titre": "Webinaire du Club CO₂",
+        "categorie": "Événements – Toutes audiences",
+        "date": "9 avril 2026",
+        "description": "Date L'événement aura lieu jeudi&nbsp;9&nbsp;avril de&nbsp;14h à&nbsp;15h. Présentation de l'événement Restitution de l'étude du captage, stockage et utilisation du CO₂&nbsp;biogénique en France. Je m'inscris à l'événement En savoir plus sur l'événement Programme de l'événement Cette étude a été réalisée en&nbsp;2025 par les cabinets eCube et Carbon&nbsp;Limits pour le compte du Club&nbsp;CO₂ avec le soutien financier de l’ADEME. Elle fait le point sur les gisements actuels et futurs du BioCO₂ en France. Elle éclaire également les perspectives d’utilisation et de stockage de la molécule, ainsi…",
+        "mots_cles": [],
+        "zone_geo": "666"
+      },
+      {
+        "id": 1723,
+        "titre": "Forum national des eco-entreprises",
+        "categorie": "Événements – Toutes audiences",
+        "date": "2 avril 2026",
+        "description": "Rencontrez les acteurs clés de la filière et découvrez les solutions concrètes pour la transition. Date et lieu L'événement aura lieu le jeudi 2 avril 2026 de 9h30 à 18h au Ministère de l’Économie à Paris (en présentiel). Il est également possible de suivre l'événement à distance. Je m'inscris à l'événement Informations pratiques pour l'accès à l'événement Présentation de l'événement Le Forum national des éco-entreprises, organisé par le PEXE – Les éco-entreprises de France en partenariat avec l’ADEME, est le rendez-vous national dédié à l’innovation au service de la transition écologique. Pub…",
+        "mots_cles": [],
+        "zone_geo": "666"
+      },
+      {
+        "id": 1641,
+        "titre": "L'ADEME Bourgogne-Franche-Comté décrypte l'actualité",
+        "categorie": "Événements – Toutes audiences",
+        "date": "20 janvier 2026",
+        "description": "Présentation Décryptage #27 - 17 avril 2025 - Présentation de la boîte à outils des dispositifs d’accompagnement aux changements Face au foisonnement de nouveaux dispositifs visant à sensibiliser les citoyens et autres parties prenantes aux enjeux environnementaux et accompagner les changements de comportements, il devient difficile de se repérer et de savoir comment choisir le dispositif le plus pertinent. L’ADEME a développé un guide et un catalogue d’exemples d’actions pour vous aider à choisir, mettre en œuvre et évaluer vos actions d’accompagnement aux changements de comportements. Ce déc…",
+        "mots_cles": [],
+        "zone_geo": "27"
+      },
+      {
+        "id": 1642,
+        "titre": "L'ADEME Auvergne-Rhône-Alpes décrypte l'actualité",
+        "categorie": "Événements – Toutes audiences",
+        "date": "5 novembre 2024",
+        "description": "Présentation Webinaires à venir - Les décryptages de l'ADEME AURA Programmation 2025 à venir [RETOUR SUR] Webinaires - Les décryptages de l'ADEME AURA 5 novembre 2024 - Biodéchets, réussir le tri à la source&nbsp;: découvrez les résultats de l’évaluation régionale&nbsp;! L’ADEME décrypte les résultats du bilan évaluatif «&nbsp;Démarches de tri à la source des biodéchets&nbsp;» en Auvergne-Rhône-Alpes en partenariat avec Ecogeos. À retrouver les résultats de l’étude présentés par l’équipe projet et les témoignages de collectivités&nbsp;: Sur la mise en place du tri à la source des biodéchets - …",
+        "mots_cles": [],
+        "zone_geo": "84"
+      }
+    ]
+  }
+}
